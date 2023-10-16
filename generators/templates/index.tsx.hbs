@@ -1,0 +1,13 @@
+import React from 'react'
+import * as S from './styles'
+import { {{pascalCase name}}Props } from './types'
+
+export function {{pascalCase name}}({ example }: {{pascalCase name}}Props) {
+  console.warn({ example })
+
+  return (
+    <S.Wrapper>
+      <h1>{{pascalCase name}} - {example}</h1>
+    </S.Wrapper>
+  )
+}

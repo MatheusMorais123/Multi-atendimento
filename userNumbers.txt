@@ -1,0 +1,28 @@
+userNumbers 
+createdAt
+27 de setembro de 2023 às 16:02:28 UTC-3
+(timestamp)
+
+
+id
+"krg7GfxQryCUwQmC4696"
+(string)
+
+
+name
+"Creativity Net "
+(string)
+
+
+phone
+"11988770055"
+(string)
+
+
+updatedAt
+27 de setembro de 2023 às 16:02:28 UTC-3
+(timestamp)
+
+
+userId
+"l4XeVGLOORYHKlIEW687qYmlss83"

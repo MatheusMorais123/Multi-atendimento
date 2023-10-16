@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": [
+      "DOM",
+      "DOM.Iterable",
+      "ESNext"
+    ],
+    "strictNullChecks": false,
+    "strict": false,
+    "esModuleInterop": true,
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "rootDir": "src",
+    "baseUrl": "src",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "paths": {
+      "@/*": ["*"]
+    },
+  },
+  "include": [
+    "src", "src/custom.d.ts"
+  ]
+}

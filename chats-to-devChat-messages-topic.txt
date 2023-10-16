@@ -1,0 +1,91 @@
+chats-to-devChat-messages-topic
+createdAt
+28 de setembro de 2023 às 19:47:43 UTC-3
+(timestamp)
+
+
+id
+"2b994698-b5eb-481f-a6cf-46e35c23142a"
+(string)
+
+
+lastMessage
+(map)
+
+
+chatId
+null
+(null)
+
+
+createdAt
+28 de setembro de 2023 às 19:47:48 UTC-3
+(timestamp)
+
+
+id
+"XUjD2Lp9n3zm4zxrPwhy"
+(string)
+
+
+isRead
+false
+(boolean)
+
+
+isSend
+true
+(boolean)
+
+
+messageText
+"OLA - 9"
+(string)
+
+
+receiverNumber
+"11988770055"
+(string)
+
+
+senderNumber
+"10987654347"
+(string)
+
+
+receiverNumber
+"11988770055"
+(string)
+
+
+requesterNumber
+"10987654347"
+(string)
+
+
+status
+"open"
+(string)
+
+
+unreadMessagesCount
+0
+(number)
+
+
+updatedAt
+29 de setembro de 2023 às 15:18:23 UTC-3
+(timestamp)
+
+
+lastMessage 
+chatId
+createdAt
+id
+isRead: false
+isSend: true
+messageText: "olá"
+receiverNumber: "00000"
+senderNumber: "000000000"
+
+
